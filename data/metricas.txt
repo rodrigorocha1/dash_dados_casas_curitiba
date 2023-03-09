@@ -1,0 +1,19 @@
+- Quais cidades possuem mais casas disponíveis para locação segundo o dataset?
+
+- Qual a porcentagem de casas que aceitam animais?
+
+- Qual a porcentagem de casas que são mobiliadas?
+
+- Qual o valor total médio para se alugar uma casa agrupado por cidade?
+
+- Qual a quantidade de casas disponíveis para locação por faixa de área em cada cidade?
+
+- Qual a média de quartos, banheiros e vagas de estacionamento por faixa de área agrupado por cidade?
+
+- Qual a média de cada valor que engloba o custo total para se alugar uma casa agrupado por cidade e área?
+
+Além das perguntas citadas acima, iremos realizar algumas análises de relacionamento entre variáveis através do método de correlação de Pearson:
+
+- Correlação entre todas as variáveis;
+
+- Correlação entre o valor do aluguel e a área.
