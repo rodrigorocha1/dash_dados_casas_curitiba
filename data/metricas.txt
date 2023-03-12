@@ -17,3 +17,7 @@ Além das perguntas citadas acima, iremos realizar algumas análises de relacion
 - Correlação entre todas as variáveis;
 
 - Correlação entre o valor do aluguel e a área.
+
+
+$ git config --global user.name "rodrigorocha1"
+$ git config --global user.email silva.rodrigo31@outlook.com
